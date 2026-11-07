@@ -45,7 +45,7 @@ which places these bases on either side of the default minimum base quality of c
 ## Citation
 
 Laboratorio Aclimu. Recurrent sequencing artifacts at known variant positions: Illumina NovaSeq X + Agilent
-SureSelect Human All Exon V8. Zenodo. https://doi.org/10.5281/zenodo.23956233
+SureSelect Human All Exon V8. Zenodo. https://doi.org/10.5281/zenodo.23956232
 
 ## License
 
