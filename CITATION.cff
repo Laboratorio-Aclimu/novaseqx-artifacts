@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these data or this software, please cite them as below."
+title: "Recurrent sequencing artifacts at known variant positions: Illumina NovaSeq X + Agilent SureSelect Human All Exon V8"
+authors:
+  - name: "Laboratorio Aclimu"
+doi: 10.5281/zenodo.23956233
+url: "https://github.com/Laboratorio-Aclimu/novaseqx-artifacts"
+license: MIT
+version: "1.1"
+date-released: 2026-11-07
